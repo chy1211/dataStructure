@@ -1,5 +1,7 @@
 # dataStructure
 
+## week3
+##### ![image](https://cdn.discordapp.com/attachments/1022149378942717972/1026149364453883944/unknown.png)
 ## week5
 ##### https://www3.ntu.edu.sg/home/ehchua/programming/java/J3b_OOPInheritancePolymorphism.html
 ## week6
