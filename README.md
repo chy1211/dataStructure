@@ -29,5 +29,9 @@
 ##### RedBlackTree
 ## week16
 ##### ask text-davinci-003 what is BFS n DFS
+##### Dijkstra(undone)
+##### https://www.youtube.com/watch?v=JLARzu7coEs 
+## week17
+##### https://dotblogs.com.tw/daniel/2019/05/06/223004
 ##### ![image](https://github.com/chy1211/dataStructure/blob/main/src/week16/BFS&DFS.png)
-## endTerm
+## endTerm(undone)
