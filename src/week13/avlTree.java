@@ -162,11 +162,11 @@ public class avlTree {
         tree.root = tree.insert(tree.root, 11);
         tree.root = tree.insert(tree.root, 98);
         tree.root = tree.insert(tree.root, 52);
-        System.out.println("前序遍歷 : ");
+        System.out.println("中序遍歷 : ");
         tree.preOrder(tree.root);
         tree.root = tree.deleteNode(tree.root, 50);
         System.out.println("");
-        System.out.println("在刪除節點 50 後，前序遍歷 :");
+        System.out.println("在刪除節點 50 後，中序遍歷 :");
         tree.preOrder(tree.root);
     }
 }
