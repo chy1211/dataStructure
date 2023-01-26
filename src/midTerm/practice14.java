@@ -10,5 +10,6 @@ public class practice14 {
         s = sc.nextLine();
         int stringLength = s.length();
         System.out.println("There are " + stringLength + " characters in the string.");
+        sc.close();
     }
 }

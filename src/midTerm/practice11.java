@@ -49,5 +49,6 @@ public class practice11 {
                 break;
         }
         System.out.println("您的星座是：" +constellation);
+        sc.close();
     }
 }

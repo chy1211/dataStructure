@@ -52,5 +52,6 @@ public class practice7 {
         }else{
             System.out.println("錯誤!無此月租費方案");
         }
+        scanner.close();
     }
 }

@@ -14,5 +14,6 @@ public class practice53 {
             fee = 75 + (int)Math.ceil((km-1.5)/0.25)*5;
         }
         System.out.println("所需車資為:"+fee+"元");
+        scanner.close();
     }
 }

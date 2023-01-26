@@ -34,6 +34,7 @@ public class practice5 {
             }
         }
         System.out.println("超過M為"+M+"的最小階層N值為:"+N);
+        scanner.close();
     }
     
 }

@@ -37,6 +37,7 @@ public class practice3 {
         
         System.out.println("請輸入出生年");
         year = scanner.nextInt();
+        scanner.close();
         System.out.println(mlist[year%12 - 4]);    
     }
     

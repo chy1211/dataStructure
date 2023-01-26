@@ -14,5 +14,6 @@ public class practice42 {
         int ans1 = Integer.parseInt(a)*Integer.parseInt(n);
         int ans2 = Integer.parseInt(n)-1;
         System.out.println(ans1+"x**"+ans2);
+        scanner.close();
     }
 }

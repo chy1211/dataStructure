@@ -19,5 +19,6 @@ public class practice44 {
         }else if(S==2){
             System.out.println("大吉");
         }
+        scanner.close();
     }
 }

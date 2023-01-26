@@ -31,5 +31,6 @@ public class practice17 {
             total+=Integer.parseInt(a[i]);
         }
         System.out.println("總點數為:"+total);
+        scanner.close();
     }
 }

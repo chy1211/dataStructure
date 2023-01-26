@@ -17,5 +17,6 @@ public class practice9 {
         }else{
             System.out.println("NO");
         }
+        scanner.close();
     }
 }

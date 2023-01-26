@@ -18,5 +18,6 @@ public class practice48 {
         for(int i=0;i<b.length;i++){
             System.out.print(b[i]+" ");
         }
+        scanner.close();
     }
 }

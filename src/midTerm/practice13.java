@@ -25,5 +25,6 @@ public class practice13 {
         }else{
             System.out.println("NO");
         }
+        sc.close();
     }
 }

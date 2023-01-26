@@ -47,7 +47,7 @@ public class practice4 {
         }else{
             System.out.println("座標("+x+","+y+")位於第四象限，離原點距離為根號"+dis);
         }
-        
+        scanner.close();
     }
     
 }

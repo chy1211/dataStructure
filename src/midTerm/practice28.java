@@ -28,6 +28,7 @@ public class practice28 {
                 System.out.println("A:"+B);
                 System.out.println("B:"+(4-B));
             }
+            scanner.close();
         }
     }
 }

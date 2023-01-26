@@ -49,5 +49,6 @@ public class practice6 {
         }
 
         System.out.println("最大值數列"+maxnum+"與最小值數列"+minnum+"的差為"+(Integer.parseInt(maxnum)-Integer.parseInt(minnum)));
+        scanner.close();
     }
 }

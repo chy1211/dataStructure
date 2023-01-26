@@ -18,5 +18,6 @@ public class practice62 {
         System.out.println("輸入水果名稱:");
         String input = scanner.nextLine();
         System.out.println("水果顏色為:" + dict.get(input));
+        scanner.close();
     }
 }

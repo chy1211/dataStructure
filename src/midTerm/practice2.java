@@ -25,6 +25,7 @@ public class practice2 {
         
         System.out.println("輸入所使用的度數");
         de = scanner.nextInt();
+        scanner.close();
         if(de<=120){
             summer = de*2.1;
             nonsummer = de*2.1;
