@@ -9,20 +9,20 @@ package week8;
  *
  * @author henry
  */
-class Node{
-    int value;
-    Node next;
-    Node prev;
-    public Node(int value){
-        this.value = value;
-        this.next = null;
-        this.prev = null;
-    }
-}
 public class doublyLinkedList {
     /**
      * @param args the command line arguments
      */
+    class Node{
+        int value;
+        Node next;
+        Node prev;
+        public Node(int value){
+            this.value = value;
+            this.next = null;
+            this.prev = null;
+        }
+    }
     Node head;
     Node tail;
     public doublyLinkedList(){
