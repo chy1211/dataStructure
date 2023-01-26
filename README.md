@@ -19,3 +19,7 @@
 ## week12
 ##### HeapSort
 ##### QuickSort
+##### BubbleSort
+##### InsertSort
+##### MergeSort
+##### SelectSort
