@@ -94,7 +94,6 @@ public class redBlackTree {
         tree.insert(11);
         tree.insert(98);
         tree.insert(52);
-        System.out.println("Inorder traversal of the constructed tree is");
         tree.inorder();
     }
 }
