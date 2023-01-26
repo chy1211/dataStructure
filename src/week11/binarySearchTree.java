@@ -9,7 +9,10 @@ package week11;
  *
  * @author henry
  */
-class BST{
+public class binarySearchTree {
+    /**
+     * @param args the command line arguments
+     */
     class Node{
         int key;
         Node left, right;
@@ -19,7 +22,7 @@ class BST{
         }
     }
     Node root;
-    BST(){
+    binarySearchTree(){
         root = null;
     }
     void deleteKey(int key){
@@ -87,13 +90,8 @@ class BST{
             return searchRec(root.left, key);
         return searchRec(root.right, key);
     }
-}
-public class binarySearchTree {
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        BST tree = new BST();
+        binarySearchTree tree = new binarySearchTree();
         /* BST tree example
               50 
            /     \ 
