@@ -94,7 +94,7 @@ public class binarySearchTree {
         binarySearchTree tree = new binarySearchTree();
         /* BST tree example
               50 
-           /     \ 
+            /     \ 
            9      98 
          /  \    /   
         6   11  52   */
