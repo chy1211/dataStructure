@@ -19,10 +19,13 @@ class Node{
         this.prev = null;
     }
 }
-class dl_list {
+public class doublyLinkedList {
+    /**
+     * @param args the command line arguments
+     */
     Node head;
     Node tail;
-    public dl_list(){
+    public doublyLinkedList(){
         this.head = null;
         this.tail = null;
     }
@@ -71,13 +74,8 @@ class dl_list {
             current = current.next;
         }
     }
-}
-public class doublyLinkedList {
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        dl_list dl_list = new dl_list();
+        doublyLinkedList dl_list = new doublyLinkedList();
         dl_list.add(1);
         dl_list.add(2);
         dl_list.add(3);
